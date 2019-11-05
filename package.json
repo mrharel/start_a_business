@@ -3,7 +3,7 @@
   "version": "1.0.0",'
   "engines": {
     "node": "12.13.0"
-  }
+  },
   "description": "Quick business generation with pixels, catalogs etc for new SEs",
   "main": "index.js",
   "scripts": {
